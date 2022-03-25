@@ -1,0 +1,1 @@
+DROP TABLE cets_on_creck;
